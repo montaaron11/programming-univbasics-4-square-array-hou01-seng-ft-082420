@@ -5,4 +5,5 @@ counter = 0
     new_array << (number[counter]*number[counter])
     counter += 1
   end
+  return new_array
 end
